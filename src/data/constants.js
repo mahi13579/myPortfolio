@@ -3,10 +3,10 @@ export const Bio = {
   roles: ["Software Engineer 🚀"],
   description:
     "I am a passionate React JS Developer with a creative flair for crafting immersive digital experiences ✨",
-  github: "https://github.com/mahi137",
+  github: "https://github.com/mahi13579",
   resume:
-    "https://drive.google.com/file/d/1U6W9eM7MhgUtc1T4A3YmCt74WHhC-yCF/view",
-  linkedin: "https://www.linkedin.com/in/mohid-shaik-9367b3380/",
+    "https://drive.google.com/file/d/1fL5BXdp1fGwpoUPHM66nMngws38U_9GZ/view",
+  linkedin: "https://www.linkedin.com/login/",
   twitter: "https://twitter.com/login",
   insta: "https://www.instagram.com/accounts/login/",
 };
@@ -110,20 +110,20 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    id: 0,
-    img: "https://www.lancequilts.com/img/Lancesoft%20New.png",
-    role: "Software Engineer (React JS Developer)",
-    company: "Lance Soft Engineering",
-    date: "June 2022 - Present",
-    desc: "Worked as a core ReactJS developer for enterprise-level projects across automotive and fintech domains. Developed reusable React components, optimized Redux store, and implemented global state management.",
-    skills: ["React JS", "Redux", "JavaScript", "Node.js", "Micro Frontends"],
-  },
+  // {
+  //   id: 0,
+  //   img: "https://www.soft.com/img/softt%20New.png",
+  //   role: "Software Engineer (React JS Developer)",
+  //   company: "Engineering",
+  //   date: "June 2022 - Present",
+  //   desc: "Worked as a core ReactJS developer for enterprise-level projects across automotive and fintech domains. Developed reusable React components, optimized Redux store, and implemented global state management.",
+  //   skills: ["React JS", "Redux", "JavaScript", "Node.js", "Micro Frontends"],
+  // },
   //   {
   //   id: 1,
-  //   img: "https://www.lancequilts.com/img/Lancesoft%20New.png",
+  //   img: "https://www.softsoftlancequilts.com/img/soft%20New.png",
   //   role: "Software Engineer (React JS Developer)",
-  //   company: "Lance Soft Engineering",
+  //   company: " Engineering",
   //   date: "June 2022 - Present",
   //   desc: "Working on the web applications using React & Node Js.",
   //   skills: ["HTML", "CSS", "Javascript", "React"],
@@ -180,7 +180,7 @@ export const projects = [
       "Github Actions",
     ],
     category: "web app",
-    github: "https://github.com/mahi137/",
+    github: "https://github.com/mahi13579",
     webapp: "https://loop-frontend-indol.vercel.app/",
   },
   {
@@ -200,7 +200,7 @@ export const projects = [
       "Material UI",
     ],
     category: "web app",
-    github: "https://github.com/mahi137/",
+    github: "https://github.com/mahi13579",
     webapp: "https://dynamic-inventory-table.vercel.app/",
   },
   {
@@ -212,7 +212,7 @@ export const projects = [
     image: "https://reactjsexample.com/content/images/2021/08/Typing.jpg",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
-    github: "https://github.com/mahi137/Typing-Speed-App",
+    github: "https://github.com/mahi13579/Typing-Speed-Test",
     webapp: "https://typing-speed-app-chi.vercel.app/",
   },
   // {
@@ -222,7 +222,7 @@ export const projects = [
   //   description: "A Shopping Cart Website using React Js 🚀.",
   //   image:
   //   category: "web app",
-  //   github: "https://github.com/mahi137/Shopping-Cart-Website",
+  //   github: "https://github.com/mahi1357/Shopping-Cart-Website",
   //   webapp: "https://shopping-cart-website-delta.vercel.app/",
   // },
   // {
@@ -258,7 +258,7 @@ export const projects = [
   //     "Github Actions",
   //   ],
   //   category: "web app",
-  //   github: "https://github.com/mahi137/LOOP-Frontend",
+  //   github: "https://github.com/mahi1357/LOOP-Frontend",
   //   webapp: "https://loop-frontend-indol.vercel.app/",
   //   member: [],
   // },
